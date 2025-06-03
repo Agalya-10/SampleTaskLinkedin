@@ -114,4 +114,5 @@ const FlightSearchResults = () => {
     </Box>
   );
 };
+
 export default FlightSearchResults;
